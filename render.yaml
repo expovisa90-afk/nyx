@@ -1,5 +1,5 @@
 services:
-  - name: Nyx
+  - name: Realer 1 Proxy
     type: web
     env: static
     branch: main
